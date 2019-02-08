@@ -31,3 +31,6 @@ HD44780_ENABLE = no         # Enable support for HD44780 based LCDs (+400)
 VIRTSER_ENABLE = no         # USB Serial Driver
 RAW_ENABLE = no             # Raw device
 AUTO_SHIFT_ENABLE = no      # Auto Shift
+
+# Additional features from the doc
+# COMBO_ENABLE = yes          # Enables two key combo presses

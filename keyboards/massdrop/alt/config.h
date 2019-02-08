@@ -119,3 +119,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 //#define NO_ACTION_ONESHOT
 //#define NO_ACTION_MACRO
 //#define NO_ACTION_FUNCTION
+
+#define GRAVE_ESC_GUI_OVERRIDE
+//#define COMBO_COUNT 1 // number of combos used
+//#define COMBO_TERM 200 // sets combo time to 200ms
